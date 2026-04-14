@@ -1,0 +1,12 @@
+{
+  "export_job_id": "7aaf0cd5-c30f-4ae9-9694-7ee4833bc103",
+  "id_short": 483889,
+  "published_at": "2026-04-14T19:04:38Z",
+  "repo_name": "restaurant-verified-email-access-in-tucson-arizona-us-sample-483889",
+  "sample_asset_name": "beamstation_483889_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/483889/beamstation_483889_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_records": 47,
+  "sample_sha256": "058fb175479ea4890206b2b4ab90ad8edfafc03898759bf1bfc0cba7bb01c6ac",
+  "sample_size_bytes": 202263,
+  "total_records": 474
+}
