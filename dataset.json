@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Tucson, Arizona, US",
+  "export_job_id": "7aaf0cd5-c30f-4ae9-9694-7ee4833bc103",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 483889,
+  "location_name": "Tucson",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-tucson-arizona-us-sample-483889",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/483889/beamstation_483889_restaurants-us-az_SAMPLE_DIST.csv",
+  "sample_pct": 9.92,
+  "sample_records": 47,
+  "sample_sha256": "058fb175479ea4890206b2b4ab90ad8edfafc03898759bf1bfc0cba7bb01c6ac",
+  "sample_size_bytes": 202263,
+  "total_records": 474,
+  "updated_at": "2026-04-07T23:13:22.490067+00:00"
+}
