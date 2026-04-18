@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Tucson, Arizona, US
 
-> Free BeamStation sample export with 47 rows and masked direct-contact fields.
+> Free BeamStation sample export with 44 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `483889` |
 | Location | Tucson |
 | Category | Restaurants |
-| Full dataset size | 474 records |
-| Free sample size | 47 records (9.92%) |
-| Last export | 2026-04-07T23:13:22.490067+00:00 |
+| Full dataset size | 441 records |
+| Free sample size | 44 records (9.98%) |
+| Last export | 2026-04-15T04:57:57.343837+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-tucson-arizona-us-sample-483889/releases/download/sample-latest/beamstation_483889_restaurants-us-az_SAMPLE_DIST.csv) |
 
 ## What is in this sample
